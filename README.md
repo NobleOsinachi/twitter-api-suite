@@ -1,6 +1,4 @@
-# twitter-api-suite
-
-Twitter API client for Node.js.
+# Twitter API client for Node.js.
 
 This library provides convenient access to the Twitter API from applications written in Node.js.
 It **only supports the REST API** at this moment. Support for Streaming, Enterprise and Ads APIs will be added soon.
